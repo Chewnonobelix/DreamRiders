@@ -1,0 +1,16 @@
+
+*.aux
+
+*.dvi
+
+*.idx
+
+*.log
+
+*.out
+
+*.pdf
+
+*.gz
+
+*.toc
